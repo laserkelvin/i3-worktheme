@@ -2,6 +2,8 @@
 
 ## Theme for `i3-gaps` and `polybar` for work
 
+![./images/snap1.jpg]
+
 First "rice", but it really is just a mash of other peoples
 projects with some customization.
 
